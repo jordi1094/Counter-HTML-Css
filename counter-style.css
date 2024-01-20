@@ -1,4 +1,4 @@
-body{background-color: #76b5c5;}
+body{background-color: #6E6E3D;}
 #display {
     border:2px solid #ff8c00 ;
     
@@ -34,7 +34,7 @@ button{
     font-size: 25px;
 }
 .reset {
-    background-color: #76b5c5;
+    background-color: #6E6E3D;
     border: 2px solid #ff8c00;
     color: #ff8c00;
 }
@@ -59,7 +59,7 @@ button:active {
 }
 
 .reset:hover{
-    background-color: #76b5c5;
+    background-color: #6E6E3D;
     border: 2px solid #ff8c00;
     color: #ff8c00;
     
