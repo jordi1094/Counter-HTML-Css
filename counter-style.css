@@ -1,0 +1,66 @@
+body{background-color: #76b5c5;}
+#display {
+    border:2px solid #ff8c00 ;
+    
+    border-radius: 25%;
+    height: 180px;
+    width: 180px;
+    margin: auto;
+    margin-top: 200px;
+    color: #eeeee4;
+    font-size: 160px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#botones {
+    display: flex;
+    height: 40px;
+    width:270px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+button{
+    height: 40px;
+    width: 64px;
+    border-radius: 10%;
+    border: 1px solid #ff8c00;
+    color: #eeeee4;
+    font-size: 25px;
+}
+.contadores {
+    background-color:#ff8c00;
+    color: #eeeee4;
+    font-size: 25px;
+}
+.reset {
+    background-color: #76b5c5;
+    border: 2px solid #ff8c00;
+    color: #ff8c00;
+}
+
+button:hover {
+    height: 42px;
+    width: 66px;
+    border-radius: 10%;
+    border: 1px solid #ff8c00;
+    color: #eeeee4;
+    font-size: 25px;
+    margin: -1px -1px;
+}
+
+button:active { 
+
+    border-radius: 10%;
+    border: 1px solid #ff8c00;
+    color: #eeeee4;
+    font-size: 25px;
+    scale: -95%
+}
+
+.reset:hover{
+    background-color: #76b5c5;
+    border: 2px solid #ff8c00;
+    color: #ff8c00;
+    
+}
